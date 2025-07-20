@@ -6,7 +6,7 @@ This project automates the process of selecting stations and downloading groundw
 
 ## 🔧 Features
 
-### 1. Automatic Station Selection & Deselection
+### 1. Automatic Dropdowns and checkbox Selection & Deselection
 
 * Dynamically opens and controls Angular-based dropdown menus.
 * Selects and deselects stations programmatically.
