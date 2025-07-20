@@ -44,8 +44,8 @@ This project automates the process of selecting stations and downloading groundw
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/automated-wris-downloader.git
-cd automated-wris-downloader
+git clone https://github.com/tanishq-sm/WebScraping.git
+cd WebScraping.git
 ```
 
 2. **Set up a virtual environment**
@@ -58,7 +58,7 @@ venv\Scripts\activate      # On Windows
 3. **Install dependencies**
 
 ```bash
-pip install -r requirements.txt
+pip install selenium pyautogui
 ```
 
 4. **Run the script**
